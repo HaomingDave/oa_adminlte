@@ -222,3 +222,11 @@
 - Added mailbox: inbox, read, and compose pages
 - Bootstrap & jQuery are now hosted locally
 - Created documentation.
+
+
+
+# 前端复习计划
+1. ::html css jquery:: 这三个，用漩涡页面和oa adminlte项目来回忆
+2. 配合ticket system来复习::vue js 和前端工程化::
+3. 配合那个node js全栈项目复习::node js::
+4. 把::前端面试题::要过一遍 
